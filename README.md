@@ -63,17 +63,17 @@ Welcome to my GitHub profile! I'm a results-driven Senior Full-Stack Developer w
 
 ## 📈 GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chnpgn&show_icons=true&theme=dark)](https://github.com/chnpgn)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tluoy&show_icons=true&theme=dark)](https://github.com/tluoy)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chnpgn&layout=compact&theme=dark)](https://github.com/chnpgn)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tluoy&layout=compact&theme=dark)](https://github.com/tluoy)
 
 ---
 
 ## 🔗 Let's Connect
 
-- **LinkedIn:** [@chnpgn](https://linkedin.com/in/chnpgn)
-- **Email:** chnpgn@gmail.com
-- **Portfolio:** [ytilaer](https://ytilaer.co)
+- **LinkedIn:** [@tluoy](https://linkedin.com/in/tluoy)
+- **Email:** tluoy33@gmail.com
+- **Portfolio:** [ytilaer](https://senior-fullstack-portfolio-snowy.vercel.app/)
 
 ---
 
