@@ -73,7 +73,7 @@ Welcome to my GitHub profile! I'm a results-driven Senior Full-Stack Developer w
 
 - **LinkedIn:** [@tluoy](https://linkedin.com/in/tluoy)
 - **Email:** tluoy33@gmail.com
-- **Portfolio:** [ytilaer](https://senior-fullstack-portfolio-snowy.vercel.app/)
+- **Portfolio:** [tluoy](https://senior-fullstack-portfolio-snowy.vercel.app/)
 
 ---
 
